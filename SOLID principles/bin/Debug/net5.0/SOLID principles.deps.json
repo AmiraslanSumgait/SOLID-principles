@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SOLID principles/1.0.0": {
+        "runtime": {
+          "SOLID principles.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID principles/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
